@@ -1,5 +1,5 @@
 # Cask
-React Native app for location and QR-Code
+React Native app for Location and QR-Code on both iOS and Android
 
 ## Install
 npm install
